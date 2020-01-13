@@ -3,8 +3,8 @@ A client has asked you to architect a solution for a “Hello World” web appli
 
 ## Acceptance Criteria
 Complete the above application in one of two ways:
-1. As _a thought exercise_, write a plan for how you would architect, implement, and manage the lifecycle of the following task. Be as specific as possible, including diagrams, mind maps, and design documents. Be prepared to review and defend your design as though you were presenting to an architecture review board.
-1. As a _proof of concept_, write automation for the following task using any language, platform, and tools of your choice. Be prepared to teardown, update, and/or redeploy your solution live.
+1. As _a thought exercise_, write a plan for how you would architect, implement, and manage the lifecycle of the application. Be as specific as possible, including diagrams, mind maps, and design documents. Be prepared to review and defend your design as though you were presenting to an architecture review board.
+1. As a _proof of concept_, write automation for the application using any language, platform, and tools of your choice. Be prepared to teardown, update, and/or redeploy your solution live.
 
 ## Delivery
 If you complete the thought exercise, please bring your plan and accompanying material with your or upload it somewhere publicly accessible on the web.
