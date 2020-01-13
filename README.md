@@ -1,2 +1,2 @@
 # katas
-katas
+A collection of Katas
